@@ -1,0 +1,51 @@
+site_name: Portfólio Técnico - Matheus Paiva
+site_description: Projetos, documentação técnica e estudos de caso de Matheus Paiva
+site_author: Matheus Paiva
+site_url: https://matheuspaivabrito.github.io
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    scheme: slate
+    primary: blue
+    accent: cyan
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/matheus-paiva-208044255/
+      name: LinkedIn
+    - icon: fontawesome/solid/envelope
+      link: mailto:matheuspaivabrito@outlook.com
+      name: E-mail
+
+nav:
+  - Início: index.md
+  - Projetos:
+      - Visão geral: projetos/index.md
+      - Bronte Belo: projetos/bronte-belo.md
+      - BOT FIPE: projetos/bot-fipe.md
+      - Sistema para Vinícola: projetos/vinicola.md
+      - Atlas: projetos/atlas.md
+  - Stack Técnica: stack.md
+  - Sobre: sobre.md
+  - Contato: contato.md
