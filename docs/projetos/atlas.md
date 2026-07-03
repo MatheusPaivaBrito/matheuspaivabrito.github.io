@@ -2,70 +2,91 @@
 
 ## Visão geral
 
-O **Atlas** é uma plataforma base voltada para construção de soluções, automações e sistemas derivados.
+O **Atlas** é uma base privada para criação de backends, automações e produtos digitais.
 
-Por ser um projeto estratégico e com partes confidenciais, a apresentação pública deve ser feita apenas em alto nível, sem exposição de código-fonte, arquitetura sensível, regras internas, credenciais ou decisões proprietárias.
+A proposta do projeto é acelerar a construção de novas soluções mantendo um padrão técnico consistente: APIs bem organizadas, separação de responsabilidades, autenticação, contratos entre serviços, documentação e preparação para evolução.
 
-!!! danger "Projeto confidencial"
-    O Atlas deve ser apresentado publicamente apenas como visão geral de produto e capacidade técnica. Nenhuma parte sensível do projeto deve ser exposta.
+Por ser uma iniciativa estratégica, o código-fonte e os detalhes internos não são públicos.
+
+!!! warning "Projeto privado"
+    Esta página apresenta o Atlas apenas em alto nível. Regras internas, código-fonte, estrutura completa, credenciais, decisões proprietárias e detalhes sensíveis de arquitetura não são expostos.
 
 ---
 
 ## Objetivo
 
-Criar uma base técnica capaz de sustentar diferentes soluções e produtos derivados, com foco em organização, reutilização, segurança e evolução contínua.
+Criar uma fundação reutilizável para transformar ideias em sistemas reais com menos retrabalho.
+
+O Atlas não é apenas um projeto único. Ele funciona como uma base técnica para gerar e evoluir outros projetos, tanto em cenários **B2B** quanto em produtos voltados ao consumidor final.
 
 ---
 
-## O que pode ser apresentado
+## O que o Atlas demonstra
 
-- Visão geral do produto
-- Problema que a plataforma resolve
-- Tipos de soluções que podem nascer a partir dela
-- Stack técnica em alto nível
-- Padrões de organização
-- Cuidados com segurança
-- Cuidados com documentação
-- Visão de escalabilidade
-
----
-
-## O que não deve ser apresentado
-
-- Código-fonte
-- Estrutura interna completa
-- Regras de negócio sensíveis
-- Segredos industriais
-- Credenciais
-- Fluxos estratégicos
-- Detalhes internos de arquitetura
-- Dados reais
-- Informações comerciais ainda não públicas
+- Arquitetura backend com separação clara entre responsabilidades.
+- Criação de APIs independentes e reutilizáveis.
+- Organização de projeto voltada para manutenção e crescimento.
+- Autenticação, autorização e controle de permissões.
+- Comunicação entre serviços por contratos explícitos.
+- Uso planejado de banco de dados, cache, mensageria e observabilidade.
+- Capacidade de gerar novos projetos a partir de uma base comum.
+- Preparação para futuras integrações com inteligência artificial.
 
 ---
 
-## Competências demonstradas
+## Stack em alto nível
 
-- Arquitetura backend
-- Organização de projeto
-- Desenvolvimento de APIs
-- Segurança de autenticação e autorização
-- Separação de responsabilidades
-- Documentação técnica
-- Pensamento de produto
-- Criação de base reutilizável para novos sistemas
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- Kafka
+- Docker
+- Kubernetes
+- MkDocs
+- GitHub Actions
 
 ---
 
-## Arquitetura em alto nível
+## Como o projeto é apresentado publicamente
 
-```text
-Produtos derivados
-        ↓
-Camadas de aplicação
-        ↓
-Serviços de domínio
-        ↓
-Infraestrutura e persistência
-        ↓
-Base técnica Atlas
+O Atlas é apresentado como uma visão de produto e capacidade técnica.
+
+O foco público é mostrar:
+
+- maturidade de arquitetura;
+- domínio de backend;
+- preocupação com segurança;
+- visão de produto;
+- organização para projetos escaláveis;
+- capacidade de criar soluções reutilizáveis.
+
+Não são apresentados:
+
+- repositório privado;
+- código-fonte;
+- diagramas internos completos;
+- fluxos estratégicos;
+- dados reais;
+- segredos técnicos ou comerciais.
+
+---
+
+## Próximos passos
+
+O Atlas segue em evolução como uma base privada para novos produtos.
+
+As frentes futuras incluem:
+
+- melhoria do gerador de projetos;
+- seleção de infraestrutura por serviço;
+- integração mais forte com mensageria;
+- evolução da camada de observabilidade;
+- criação de uma API dedicada para recursos de inteligência artificial;
+- suporte a fluxos de dados para construção de datasets.
+
+---
+
+## Resumo
+
+O Atlas representa uma forma de trabalhar: transformar experiência técnica em uma base reutilizável, segura e organizada para acelerar novos projetos sem começar do zero a cada entrega.

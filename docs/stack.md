@@ -1,9 +1,3 @@
-
----
-
-# Passo 13 — Criar `docs/stack.md`
-
-```md
 # Stack Técnica
 
 Esta página reúne as principais tecnologias, práticas e áreas técnicas presentes nos projetos do portfólio.

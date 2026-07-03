@@ -19,6 +19,9 @@ theme:
     primary: blue
     accent: cyan
 
+plugins:
+  - search
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -40,12 +43,17 @@ extra:
 
 nav:
   - Início: index.md
+
   - Projetos:
       - Visão geral: projetos/index.md
       - Bronte Belo: projetos/bronte-belo.md
       - BOT FIPE: projetos/bot-fipe.md
       - Sistema para Vinícola: projetos/vinicola.md
       - Atlas: projetos/atlas.md
+
+  - Pesquisa:
+      - IA Generativa no Desenvolvimento de Software: pesquisa/ia_generativa_no_desenvolvimento_de_software.md
+
   - Stack Técnica: stack.md
   - Sobre: sobre.md
   - Contato: contato.md
