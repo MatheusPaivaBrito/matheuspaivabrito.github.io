@@ -1,9 +1,3 @@
-
----
-
-# Passo 10 — Criar `docs/projetos/bot-fipe.md`
-
-```md
 # BOT FIPE
 
 ## Visão geral

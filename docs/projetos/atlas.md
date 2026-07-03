@@ -1,9 +1,3 @@
-
----
-
-# Passo 12 — Criar `docs/projetos/atlas.md`
-
-```md
 # Atlas
 
 ## Visão geral

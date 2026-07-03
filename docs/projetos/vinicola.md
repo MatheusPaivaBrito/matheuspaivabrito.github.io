@@ -1,9 +1,3 @@
-
----
-
-# Passo 11 — Criar `docs/projetos/vinicola.md`
-
-```md
 # Sistema para Vinícola
 
 ## Visão geral
