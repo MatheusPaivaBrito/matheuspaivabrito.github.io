@@ -13,6 +13,14 @@ Este portfólio reúne projetos selecionados para demonstrar minha capacidade de
 
 <div class="grid cards" markdown>
 
+-   **SIB — Summit Internacional de Branding**
+
+    ---
+
+    Reconstrução do site oficial de um evento internacional, com Angular, prerender, SEO técnico, alta performance e publicação em produção.
+
+    [Ver projeto](projetos/sib.md)
+
 -   **Bronte Belo**
 
     ---
@@ -52,8 +60,12 @@ Este portfólio reúne projetos selecionados para demonstrar minha capacidade de
 ## Principais competências demonstradas
 
 - Desenvolvimento backend com Python
+- Desenvolvimento frontend com Angular e TypeScript
 - Construção de APIs
 - Arquitetura de sistemas
+- SEO técnico, SSR e prerender
+- Performance, acessibilidade e responsividade
+- Docker, Nginx e publicação com HTTPS
 - Organização de projetos
 - Automação e coleta de dados
 - Documentação técnica

@@ -46,6 +46,7 @@ nav:
 
   - Projetos:
       - Visão geral: projetos/index.md
+      - SIB: projetos/sib.md
       - Bronte Belo: projetos/bronte-belo.md
       - BOT FIPE: projetos/bot-fipe.md
       - Sistema para Vinícola: projetos/vinicola.md

@@ -6,6 +6,14 @@ O objetivo não é expor código confidencial, dados reais ou regras internas, m
 
 <div class="grid cards" markdown>
 
+-   **SIB — Summit Internacional de Branding**
+
+    ---
+
+    Reconstrução de site institucional internacional com Angular, SEO técnico, prerender, analytics, performance e infraestrutura de produção.
+
+    [Abrir case](sib.md)
+
 -   **Bronte Belo**
 
     ---
